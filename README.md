@@ -1,2 +1,4 @@
-# Smart-File-Organizer
-easy smart file organizer
+Smart-File-Organizer
+│
+├── organizer.py
+├── README.md
